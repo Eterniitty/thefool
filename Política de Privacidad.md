@@ -1,7 +1,7 @@
-Política de Privacidad para The Fool de Discord
+Política de Privacidad para One Wallpaper OwO de Discord
 
 1. Información que Recopilamos
-Para garantizar la correcta ejecución de sus funciones, "The Fool" desde ahora "bot" recopila y procesa un conjunto mínimo de datos. Estos incluyen:
+Para garantizar la correcta ejecución de sus funciones, One Wallpaper OwO desde ahora  "bot" recopila y procesa un conjunto mínimo de datos. Estos incluyen:
 
 Identificadores de Discord: Identificador único de usuario (User ID), identificador de servidor (Guild ID) e identificador de canal (Channel ID).
 
