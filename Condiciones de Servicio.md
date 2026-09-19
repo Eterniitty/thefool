@@ -1,7 +1,7 @@
-Condiciones de Servicio para The Fool.
+Condiciones de Servicio para One Wallpaper OwO
 
 1. Aceptación de los Términos
-Al añadir, configurar o interactuar con (The Fool) desde ahora "bot" en cualquier servidor de Discord, el usuario acepta de manera vinculante los presentes Términos de Servicio. El uso del bot implica la conformidad plena con estas condiciones.
+Al añadir, configurar o interactuar con  One Wallpaper OwO desde ahora  "bot" en cualquier servidor de Discord, el usuario acepta de manera vinculante los presentes Términos de Servicio. El uso del bot implica la conformidad plena con estas condiciones.
 
 2. Licencia de Uso y Restricciones
 Se concede una licencia limitada, revocable, no exclusiva y no transferible para utilizar las funciones del bot en servidores autorizados. Queda prohibido:
